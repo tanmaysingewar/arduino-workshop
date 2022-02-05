@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import About from '../components/About'
 import AboutEyantra from '../components/AboutEyantra'
 import ApplyNow from '../components/ApplyNow'
