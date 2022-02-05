@@ -17,7 +17,7 @@ function About() {
           <p style={{fontSize : 26, margin : 0, lineHeight : 1, marginTop : 30, color : "#fff"}}>Get Prepared For E-yantra Competition</p>
           <p style={{fontSize : 14, margin : 0, lineHeight : 2, color : "#ccc",fontWeight : 300}}>About Competition </p>
           <p style={{fontSize : 14, margin : 0, lineHeight : 2, color : "#ccc",fontWeight : 400}}>Enjoying the rote classroom or online learning? We hope Not !! <br/>
-          We bring you India’s biggest PBL (Project Based Learning) robotics competitions - the e-Yantra Robotics Competition (eYRC) hosted by e-Yantra, IIT Bombay.</p>
+          We bring you India’s biggest PBL (Project Based Learning) robotics competitions - the e-Yantra Robotics competition (eYRC) hosted by e-Yantra, IIT Bombay.</p>
         </div>
       </div>
   </div>;

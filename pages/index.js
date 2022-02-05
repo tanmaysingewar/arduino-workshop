@@ -30,7 +30,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p style={{textAlign : "center"}}>Created and Design by <br/>Tanmay Singewar</p>
+          <p style={{textAlign : "center"}}>Created and Designed by <br/>Tanmay Singewar</p>
         </a>
       </footer>
     </div>
