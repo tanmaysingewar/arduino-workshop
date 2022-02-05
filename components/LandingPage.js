@@ -15,7 +15,7 @@ function LandingPage() {
         <p className={styles.text} style={{fontSize : 14, color : "#ccc",lineHeight : 1, marginTop : 0, fontWeight : 500}}>ORGANISES UNDER</p>
         <p className={styles.text} style={{fontSize : 22,lineHeight : 1, marginTop : -10}}>E-YANTRA AND HOBBY ELECTRONICS </p>
         <p className={styles.text} style={{fontSize : 14, color : "#ccc",lineHeight : 1, marginTop : -15}}>Workshop on </p>
-        <p className={styles.text} style={{fontSize : 40, color : "#D8B894",lineHeight : 1,marginTop : -10}}>ARDUINO DEVELOPMENT BOARD & PROGRAMING</p>
+        <p className={styles.text} style={{fontSize : 40, color : "#D8B894",lineHeight : 1,marginTop : -10}}>ARDUINO DEVELOPMENT BOARD & PROGRAMMING</p>
         <p className={styles.text} style={{fontSize : 16, lineHeight : 1}}>On 18th February 2022</p>
         <p className={styles.text} style={{fontSize : 12, lineHeight : 1.5}}>Complete One Day Workshop will give you the experience of working with real Arduino boards and you gonna learn by solving real-life challenges.</p>
         <div style={{display : "flex",justifyContent : "center"}}>
