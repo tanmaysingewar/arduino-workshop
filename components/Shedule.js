@@ -10,7 +10,7 @@ function Shedule() {
             <table align="center">
               <tr>
                 <td style={{width : 120}}><span style={{fontSize : 14, color : "#fff", fontWeight : 300}}>10 : 30 - 11 : 00  </span></td>
-                <td><p style={{textAlign : "left"}}> Inogration  </p></td>
+                <td><p style={{textAlign : "left"}}> Inauguration </p></td>
               </tr>
               <tr>
                 <td><span style={{fontSize : 14, color : "#fff", fontWeight : 300}}>11 : 00 - 12 : 00  </span></td>
